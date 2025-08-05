@@ -3,7 +3,7 @@
 A simple desktop application built with C# (.NET) for tracking daily expenses. 
 
 ![C#](https://img.shields.io/badge/C%23-.NET-blue?logo=c-sharp) 
-![Platform](https://img.shields.io/badge/Desktop-Windows-informational?logo=windows)
+![Database](https://img.shields.io/badge/SQLite-lightgrey?logo=sqlite)
 
 ---
 
