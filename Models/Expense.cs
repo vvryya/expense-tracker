@@ -2,9 +2,9 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.SignalR;
 
-namespace ExpenseTracker.models
+namespace ExpenseTracker.Models
 {
-    public class ExpenseTracker
+    public class Expense
     {
         public int Id { get; set; }
 
@@ -14,7 +14,7 @@ namespace ExpenseTracker.models
 
         [Required]
         [StringLength(100)]
-        public string Category { get; set; }
+        public required string Category { get; set; }
 
         [StringLength(250)]
         public string? Description { get; set; }
