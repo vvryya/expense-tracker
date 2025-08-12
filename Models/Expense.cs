@@ -14,7 +14,7 @@ namespace ExpenseTracker.Models
 
         [Required]
         [StringLength(100)]
-        public required string Category { get; set; }
+        public string Category { get; set; }
 
         [StringLength(250)]
         public string? Description { get; set; }

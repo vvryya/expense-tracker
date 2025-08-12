@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/vvryya/Documents/code/expense-tracker/Pages/Expenses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhwZW5zZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/vvryya/Documents/code/expense-tracker/Pages/Expenses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhwZW5zZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
